@@ -1,0 +1,19 @@
+{
+    "categories": [
+        {
+            "id": "cat001",
+            "name": "Goal Evidence",
+            "description": "Used for documenting and tracking evidence related to specific goals."
+        },
+        {
+            "id": "cat002",
+            "name": "Support Coordination",
+            "description": "For organizing and managing coordination efforts in support activities."
+        },
+        {
+            "id": "cat003",
+            "name": "Active Duty",
+            "description": "Pertains to tasks, notes, and information relevant to active duty engagements."
+        }
+    ]
+}
